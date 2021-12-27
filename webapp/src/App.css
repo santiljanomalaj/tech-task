@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+
+    --clr-background: #F3F3FB;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+*::-webkit-scrollbar {
+    background-color: #f5f5f5;
+    width: 7px;
+    visibility: hidden;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #aaaaaa;
+    /* outline: 1px solid slategrey; */
+    border-radius: 5px;
+}
+
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #aaaaaa;
+
+}
+
+.subtitle {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #aaaaaa;
+}
+
+
+.detailTag {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #aaaaaa;
+    font-size: medium;
+
+}
+
+.detailData {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    color: black;
+    font-size:large;
+}
+
+.picture {
+
+    border-radius: 50%;
+
+}
